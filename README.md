@@ -50,7 +50,7 @@ Vivência em ambientes Big Data, DevOps, BPM, Metodologias Ágeis
 
 | Language   | Download Link |
 |------------|---------------|
-| Português  | [Download PDF](https://github.com/JoaoP3droMM/Curriculos/blob/be700eb9e2b2beefe08d1185cc3c60d16d7749a6/Curriculo.pdf) |
+| Português  | [Download PDF](https://raw.githubusercontent.com/JoaoP3droMM/Curriculos/be700eb9e2b2beefe08d1185cc3c60d16d7749a6/Curriculo.pdf) |
 | English    | [Download PDF](https://github.com/Khouloud-Bhlel/CV-Fransh/raw/master/cv-english-khouloud.pdf) |
 
 ## 🌐 Linguagens
